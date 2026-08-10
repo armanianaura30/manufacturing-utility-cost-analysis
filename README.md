@@ -2,6 +2,8 @@
 
 **Power BI | Excel | Power Query | DAX**
 
+[View Dashboard](dashboard.png) | [View Power BI Report](powerbi/manufacturing_utility_analysis.pbix)
+
 ## Project Overview
 
 This project analyzes manufacturing utility costs, consumption, production output, and electricity efficiency across three production plants from 2024–2025.
@@ -104,6 +106,18 @@ The Power BI dashboard provides an interactive view of manufacturing utility cos
 ### Dashboard Preview
 
 ![Manufacturing Utility Cost & Efficiency Dashboard](dashboard.png)
+
+---
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| [Dashboard Preview](dashboard.png) | Final Power BI dashboard screenshot |
+| [Power BI Report](powerbi/manufacturing_utility_analysis.pbix) | Power BI report file |
+| [Dataset](data/utility_data.xlsx) | Synthetic dataset used for the analysis |
+
+> The dataset is synthetic and was created for portfolio and learning purposes. It does not contain confidential company or personal information.
 
 ---
 
